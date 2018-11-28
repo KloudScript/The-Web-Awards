@@ -1,0 +1,34 @@
+.heading {
+    color: white;
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Niramit', sans-serif;
+    float: left;
+}
+body {
+    background-image: url("https://www.xmple.com/wallpaper/linear-highlight-black-gradient-red-1920x1080-c2-000000-8b0000-l-33-a-90-f-21.svg"); 
+    text-align: center;
+}
+.award {
+    width: 120px;
+    margin: 50px;
+}
+.awardtext {
+    color: white;
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+}
+.awardpicture {
+    width: 450px;
+    border: solid;
+}
+.name {
+    color: white;
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+}
+.center {
+}
